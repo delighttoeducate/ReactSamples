@@ -1,0 +1,19 @@
+.primary
+{
+    color:blue;
+}
+
+.font-xl
+{
+    font-size: 90px;
+}
+
+.font-sml
+{
+    font-size: 30px;
+}
+
+.font-decoration
+{
+    text-decoration: underline;
+}
