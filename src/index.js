@@ -16,8 +16,8 @@ import Portals from './AdTopics/Portals'
 
 // React Hooks
 
-ReactDOM.render(<AppHooks/>,document.getElementById("root"))
-// ReactDOM.render(<App/>,document.getElementById("root"))
+// ReactDOM.render(<AppHooks/>,document.getElementById("root"))
+ReactDOM.render(<App/>,document.getElementById("root"))
 // ReactDOM.render(<Portals/>,docs
 
 
