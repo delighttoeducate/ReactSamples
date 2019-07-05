@@ -1,3 +1,5 @@
-## React Basics and React Hooks
 
-React Basics sample codes and React Hooks `
+## All Basic React Programs 
+
+
+Clone the project and install dependencies with -- npm install command 
